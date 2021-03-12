@@ -1,0 +1,6 @@
+*
+!pyproject.toml
+!poetry.lock
+!requirements.txt
+!nn_obuscator/**
+!scripts/**
